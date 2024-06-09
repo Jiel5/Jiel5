@@ -1,16 +1,29 @@
-## Hi there 👋
+# Halo, Saya Jihan👋
 
-<!--
-**Jiel5/Jiel5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya adalah seorang **Front End Developer** yang saat ini sedang menempuh pendidikan di jurusan Teknik Informatika di **Universitas Muria Kudus**. Saya memiliki minat yang besar dalam membangun aplikasi web yang interaktif dan responsif menggunakan teknologi modern.
 
-Here are some ideas to get you started:
+## Tentang Saya
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Saat ini saya sedang mempelajari: React, Vue.js, dan TypeScript.
+- 💼 Saya sedang mencari kesempatan untuk bekerja di proyek-proyek menarik dan menantang.
+- ⚡ Fun fact: Saya juga tertarik dengan Graphic Design dan sering menghabiskan waktu untuk belajar tentang prinsip-prinsip desain yang baik.
+
+## Keahlian
+
+- **Bahasa Pemrograman**: JavaScript, HTML, CSS
+- **Framework & Libraries**: React, Hapi.js, Bootstrap
+- **Alat & Teknologi**: Git, GitHub, VS Code, Figma
+
+## Pendidikan
+
+**Universitas Muria Kudus**  
+Jurusan: Teknik Informatika 
+
+## Kontak
+
+- Email: latifahjihan87@example.com
+- LinkedIn: www.linkedin.com/in/jihanlatifah
+- GitHub: github.com/Jiel5
+
+Terima kasih telah mengunjungi profil saya! Jangan ragu untuk menghubungi saya jika Anda tertarik untuk berkolaborasi atau memiliki pertanyaan.
+
