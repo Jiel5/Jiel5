@@ -4,7 +4,7 @@ Saya adalah seorang **Front End Developer** yang saat ini sedang menempuh pendid
 
 ## Tentang Saya
 
-- 🌱 Saat ini saya sedang mempelajari: React, Vue.js, dan TypeScript.
+- 🌱 Saat ini saya sedang mempelajari: React, Hapi.js, dan Node.js.
 - 💼 Saya sedang mencari kesempatan untuk bekerja di proyek-proyek menarik dan menantang.
 - ⚡ Fun fact: Saya juga tertarik dengan Graphic Design dan sering menghabiskan waktu untuk belajar tentang prinsip-prinsip desain yang baik.
 
