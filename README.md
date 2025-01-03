@@ -4,14 +4,14 @@ Saya adalah seorang **Front End Developer** yang saat ini sedang menempuh pendid
 
 ## Tentang Saya
 
-- 🌱 Saat ini saya sedang mempelajari: React, Hapi.js, dan Node.js.
+- 🌱 Saat ini saya sedang mempelajari: React, Laravel, SQL Express, PHP dan JS.
 - 💼 Saya sedang mencari kesempatan untuk bekerja di proyek-proyek menarik dan menantang.
 - ⚡ Fun fact: Saya juga tertarik dengan Graphic Design dan sering menghabiskan waktu untuk belajar tentang prinsip-prinsip desain yang baik.
 
 ## Keahlian
 
-- **Bahasa Pemrograman**: JavaScript, HTML, CSS
-- **Framework & Libraries**: React, Hapi.js, Bootstrap
+- **Bahasa Pemrograman**: JavaScript, HTML, CSS, PHP
+- **Framework & Libraries**: React, Laravel, Bootstrap
 - **Alat & Teknologi**: Git, GitHub, VS Code, Figma
 
 ## Pendidikan
